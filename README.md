@@ -12,7 +12,7 @@
 ![Source code and Unit Test](https://github.com/doit-now/math-util-1808/blob/main/screenshots/SourceCodeAndUnitTest.png)
 
 
-#### Connect me via: hoang.nguyenthe@gmail.com
+#### Connect me via: hungnbse172330@fpt.edu.vn
 
-##### &#169; 2024 giáo.làng
+##### &#169; 2024 Hung.Ba
 
