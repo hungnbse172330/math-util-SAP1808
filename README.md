@@ -1,17 +1,18 @@
-# Welcome to Math Utility Repository
+# Welcome to Math Utility Repository ver. 7.6.2024
 
-## You Will find in this repo the following stuff
+## You will find in this repo the following stuff
 
 * A Math Utility source code to demonstrate the Math library using Java & Maven
 * A Unit Test test script using JUnit Testing Framework to ensure the quality of source code
-* The test script to demonstrate the TĐ, DDT techniques
-* The CI ( Continuous Intergration ) script to apply CI process
+* The test script to demonstrate the TDD, DDT techniques
+* The CI (Continuous Integration) script to apply CI process 
 * ...
 
 ### Screenshots
-![ThinhDAN](https://github.com/hungnbse172330/math-util-SAP1808/blob/main/screenshots/SourceCodeAndUnitTest.png)
+![Source code and Unit Test](https://github.com/doit-now/math-util-1808/blob/main/screenshots/SourceCodeAndUnitTest.png)
 
 
-#### Connect me via : hungnbse172300@fpt.edu.vn
+#### Connect me via: hoang.nguyenthe@gmail.com
 
-##### &#169; Bá.Hùng
+##### &#169; 2024 giáo.làng
+
